@@ -1,2 +1,3 @@
 #!/bin/bash
-chgrp school hello
+ln -s /bin/ls __ls__
+
