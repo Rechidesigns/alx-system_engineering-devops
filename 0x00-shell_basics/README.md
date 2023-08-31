@@ -7,3 +7,10 @@ Task 2 completed, Write a script that changes the working directory to the userâ
 Task 3 completed, List the files in the working directory in long format
 
 Task 4 completed, Display current directory contents, including hidden files (starting with .). Use the long format.
+
+Task 5 completed, Display current directory contents.
+
+Long format
+with user and group IDs displayed numerically
+And hidden files (starting with .)
+
